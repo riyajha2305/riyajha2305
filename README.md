@@ -1,9 +1,9 @@
 <h1 align="center">Hey! 👋 Riya Jha here...</h1>
 <h3 align="center">a COMBO of a Student, Developer and Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajha2305&label=Profile%20views&color=0e75b6&style=flat" alt="riyajha2305" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=riyajha2305&label=Profile%20views&color=0e75b6&style=flat" alt="riyajha2305" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyajha2305" alt="riyajha2305" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyajha2305" alt="riyajha2305" /></a> </p>
 
 - 🔭 Currently working on **my Development & Competitive Skills!**
 
