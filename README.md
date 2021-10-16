@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey! 👋 Riya here - aka [riyajha2305][website]
 
-<!--
-**riyajha2305/riyajha2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Found a COMBO of a Student, Developer and Competitive Programmer within me!
+- Sophomore @IIT(ISM)
+- Currently working on Web Development skills
+- A Competitive Programming enthusiast too
+- I'm currently learning C++, Php and Python
+- Got hands on MERN stack
+- Looking forward to collaborate with other developers
+- 2021 Goals: Contribute to Open Source Projects
+- fun-fact: I love to paint and dance too
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyajha2305)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
