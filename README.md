@@ -1,23 +1,16 @@
-<h1 align="center">Hey! 👋 Riya Jha here...</h1>
-<h3 align="center">a COMBO of a Student, Developer and Competitive Programmer</h3>
+<h1 align="center">Hello World! 👋 Riya Jha here...</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riyajha2305&label=Profile%20views&color=0e75b6&style=flat" alt="riyajha2305" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyajha2305" alt="riyajha2305" /></a> </p>
 
-- 🔭 Currently working on **my Development & Competitive Skills!**
+- 🔭 Currently working on **my Development & Competitive Programming Skills!**
 
 - 🌱 Trying my hands on learning **C++,Python and Php**
 
-- 👯 Looking forward to collaborate with **other developers 😎**
+- 👯 Looking forward to collaborate with **other developers**
 
-- 🤝 Seeking for help in **Open Source Contributions 🥺**
-
-- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap, jQuery, Node.js, Express.js, EJS, MongoDB, MySQL, React.js, Redux.js,C, C++, Firebase, Python, Git-Github, postman.🤓**
-
-- 📫 How to reach me **riya.jha2305@gmail.com**
-
-- ⚡ Fun fact **I love to paint and dance too ⭐️**
+- 📫 Reach me at **riya.jha2305@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
